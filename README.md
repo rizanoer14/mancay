@@ -1,0 +1,2 @@
+# mancay
+Student for study
